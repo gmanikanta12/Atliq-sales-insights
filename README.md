@@ -1,4 +1,4 @@
-# sales-insights
+# ATLIQ sales-insights
 
 ATLIQ is a Electrical Eqipment  Manufacturing Comapany.
 
